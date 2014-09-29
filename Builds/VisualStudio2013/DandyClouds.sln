@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2013
+Project("{9CC4E9C2-2C57-0432-66FC-BD480E53E246}") = "DandyClouds", "DandyClouds.vcxproj", "{5EA4CF69-3938-B937-90CD-91B1B580F42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Debug|Win32.Build.0 = Debug|Win32
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Release|Win32.ActiveCfg = Release|Win32
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Release|Win32.Build.0 = Release|Win32
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Debug|x64.ActiveCfg = Debug|x64
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Debug|x64.Build.0 = Debug|x64
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Release|x64.ActiveCfg = Release|x64
+		{5EA4CF69-3938-B937-90CD-91B1B580F42A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
